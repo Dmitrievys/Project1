@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308340570311",
+    "firebase_url": "https://light-field-298204-default-rtdb.firebaseio.com",
+    "project_id": "light-field-298204",
+    "storage_bucket": "light-field-298204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308340570311:android:e1ad09769dd9b0b181a6e2",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308340570311-picl02nb85ogvhsrtvu4rl4jgaems2m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKIjCMqJS937KTCTVfQvgzQhZ4WV5qgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308340570311-picl02nb85ogvhsrtvu4rl4jgaems2m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
